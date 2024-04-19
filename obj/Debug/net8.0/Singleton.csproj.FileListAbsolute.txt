@@ -1,0 +1,14 @@
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\bin\Debug\net8.0\Singleton.exe
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\bin\Debug\net8.0\Singleton.deps.json
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\bin\Debug\net8.0\Singleton.dll
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\bin\Debug\net8.0\Singleton.pdb
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\obj\Debug\net8.0\Singleton.dll
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\obj\Debug\net8.0\Singleton.pdb
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+D:\c-sharp-10-design-patterns\02\demos\end\Singleton\obj\Debug\net8.0\ref\Singleton.dll
